@@ -1,0 +1,2 @@
+Prefix plugins/EllipsePlot/example
+Plugin EllipsePlot inputfile filelist.txt outputfile myoutput
